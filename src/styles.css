@@ -1,0 +1,5 @@
+/* You can add global styles to this file, and also import other style files */
+
+.swal2-confirm.swal2-styled {
+    background-color: #dc3545!important;
+}
